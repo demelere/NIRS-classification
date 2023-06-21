@@ -1,0 +1,11 @@
+gdown
+h5py
+ipykernel
+jupyterlab
+matplotlib
+nilearn
+numpy
+pandas>=1.0.0
+pytest
+scikit-learn
+scipy
